@@ -2,7 +2,6 @@
 I'm a dedicated Software Engineer with a Master’s in Computer Science from the University of Massachusetts and over 5 years of experience building scalable applications with MERN stack, Java, and AWS. I thrive in collaborative environments and enjoy contributing to open-source projects.
 
 ### Skills
-### Skills
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)  
