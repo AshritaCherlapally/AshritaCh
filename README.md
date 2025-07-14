@@ -1,5 +1,5 @@
 ## Hi, I'm Ashrita 👋
-I'm a dedicated Software Engineer with a Master’s in Computer Science from the University of Massachusetts and over 4 years of experience building scalable applications with React,Node, Java, SpringBoot and AWS. I thrive in collaborative environments and enjoy contributing to open-source projects.
+I'm a dedicated Software Engineer and ML/AI enthusiast with a Master’s in Computer Science from the University of Massachusetts. I have hands-on software engineering experience building scalable applications using React, Node.js, Java, Spring Boot, and AWS. I enjoy leveraging AI and machine learning technologies to create intelligent solutions and am continuously expanding my skills in these areas. I thrive in collaborative environments and actively contribute to open-source projects.
 
 ### Skills
 
@@ -13,11 +13,9 @@ I'm a dedicated Software Engineer with a Master’s in Computer Science from the
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes) 
 
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket) 
 
-### Projects
-- [Banking Application](https://github.com/ashritacherlapally/banking-app) - Full-stack app with Next.js 15 and AWS deployment.
-- [Patient Management System](https://github.com/ashritacherlapally/patient-mgmt) - Microservices-based system with Java and Kubernetes.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
 ### Connect with me
 - [LinkedIn](https://linkedin.com/in/ashritacherlapally) | [Email](mailto:ashritacherlapally08@gmail.com)
